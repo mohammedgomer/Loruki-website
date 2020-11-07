@@ -362,6 +362,7 @@ padding: 10px;
     animation: slideInFromLeft 1s ease-in;
 }
 
+
 .showcase-form {
     position: relative;
     top: 60px;
@@ -565,6 +566,7 @@ margin-right: 20px;
     }
 }
 
+
 /* Tablets and under */
 
 /* Anything under 768px is going to be styled here */
@@ -636,6 +638,10 @@ grid-column: 1;
 .navbar ul {
     padding: 10px;
     background: rgba(0,0,0,0.1);
+}
+
+.showcase-text p {
+margin: 15px 20px;
 }
 
 
